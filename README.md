@@ -6,7 +6,7 @@ Listing of the wordpress project for IT Club website done by the executive membe
 
 + **Abhishek Joshi** -> [Github](https://github.com/GauravHub11/Wordpress-site)
 
-[![Abhishek demo](https://i.imgur.com/HBgs6bN.jpg)](https://itclubkec.000webhostapp.com)
+[![Abhishek demo](https://i.imgur.com/i6ZpiH6.jpg)](https://itclubkec.000webhostapp.com)
 
 
 + **Gaurav Pandeya** -> [Github](https://github.com/GauravHub11/Wordpress-site)
@@ -32,6 +32,7 @@ Listing of the wordpress project for IT Club website done by the executive membe
 + **Suyog Dahal** -> [Github](https://github.com/suyogdahal/Wordpress-Site)
 
 [![Suyog demo](https://i.imgur.com/RXXlOgi.png)](https://suyogdahal46.000webhostapp.com/)
+
 
 
 ## Add your project
