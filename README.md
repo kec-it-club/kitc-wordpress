@@ -34,6 +34,13 @@ Listing of the wordpress project for IT Club website done by the executive membe
 [![Suyog demo](https://i.imgur.com/RXXlOgi.png)](https://suyogdahal46.000webhostapp.com/)
 
 
+## Add your project
+
+1. Fork it (<https://github.com/kec-it-club/kitc-wordpress/fork>)
+2. Create your project branch (`git checkout -b project/project-name`)
+3. Commit your changes (`git commit -am 'Add the project'`)
+4. Push to the branch (`git push origin project/project-name`)
+5. Create a new Pull Request
 
 
 
